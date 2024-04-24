@@ -1,0 +1,124 @@
+.sec1{
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 20px;
+}
+header{
+    background-color: #3d4a59;
+    border-radius: 0px 0px 30px 30px;
+    margin: -6px 0px 10px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: gainsboro;
+    margin-top: -25px;
+    font-family: anton;
+    font-size: 50px;
+    font-weight: bold;
+}
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+header ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.mode{
+    font-family: anton;
+    font-size: 30px;
+    font-weight: bold;
+    color: yellow;
+    width: fit-content;
+}
+.mode:hover{
+    font-size: larger;
+}
+.footer{
+    background-color: midnightblue;
+    border-radius: 50px;
+}
+.ul1 a{
+    text-decoration: none;
+    font-family: anton;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+header p{
+    text-align: center;
+    font-family: anton;
+    font-size: 30px;
+    font-weight: bold;
+    color: cadetblue;
+    
+}
+.ul1 a:hover{
+    font-size:larger;
+}
+.li1{
+    background-color: #4169e1;
+    padding: 10px;
+}
+.li2{
+    background: linear-gradient(45deg, #f5c33b 0, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    font-family: jomhuria;
+    font-size: 70px;
+    font-weight: bold;
+    background-color: saddlebrown;
+    border-radius: 17px;
+    width: 50%;
+    margin: 0px auto 10px;
+    padding: 20px;
+    color: midnightblue;
+}
+.ali2 a{
+    text-decoration: none;
+    margin-left: 40px;
+    color:#f5c33b;
+    padding: 10px;
+}
+.ali2 a:hover{
+    font-size: larger;
+}
+.ali3{
+    text-align: center;
+    margin-top: 35px;
+}
+footer li{
+    font-family: anton;
+    font-size: 30px;
+    font-weight: bold;
+    color: #e6683c;
+}
+.left-section th{
+    color: purple;
+}
+.left-section td{
+    color: darkcyan;
+}
+.right-section th{
+    color: purple;
+}
+.right-section td{
+    color: #cc2366;
+}
+.sec1 img{
+    display: inline-block;
+    margin: 10px;
+    border-radius: 50%;
+}
+header img{
+    border-radius: 50%;
+}
